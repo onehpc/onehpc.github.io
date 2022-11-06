@@ -1,4 +1,5 @@
 ---
+index_img: https://i.w3tt.com/2021/09/01/5O1xX.png
 title: 去广告adguard home安装
 date: 2022-09-19 10:07:06
 updated: 2022-09-19 10:07:06

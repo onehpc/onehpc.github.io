@@ -1,4 +1,5 @@
 ---
+index_img: https://www.runoob.com/wp-content/uploads/2014/05/python3.png
 title: centos7安装python3
 date: 2022-09-19 10:15:26
 updated: 2022-09-19 10:15:26

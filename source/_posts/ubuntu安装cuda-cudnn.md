@@ -1,4 +1,5 @@
 ---
+index_img: https://s2.232232.xyz/static/266/2022/11/06-6367602d68fd2.jpg
 title: Ubuntu安装CUDA+CUDNN
 date: 2022-09-19 10:10:41
 updated: 2022-09-19 10:10:41

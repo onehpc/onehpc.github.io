@@ -3,20 +3,20 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 100
   slogan:
     text: 科学计算软件安装部署
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: /images/uploads/background.webp
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
   banner_img_height: 80
   subtitle: null
 tag:

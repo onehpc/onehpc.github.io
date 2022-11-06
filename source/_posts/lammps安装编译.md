@@ -83,6 +83,12 @@ vim Makefile.linux\
 CUDA_HOME=/usr/local/cuda-11.1\
 下面参数修改请看**[CUDA](https://en.wikipedia.org/wiki/CUDA#GPUs_supported)**维基百科
 
+<!--StartFragment-->
+
+!\[1667718797718.jpg](https://s2.232232.xyz/static/266/2022/11/06-63675f6d174b1.jpg)
+
+<!--EndFragment-->
+
 # [](https://c3.pw/index.php/archives/9/#cl-23)Turing hardware
 
 CUDA_ARCH = -arch=sm_75\

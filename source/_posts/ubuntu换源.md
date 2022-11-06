@@ -1,4 +1,5 @@
 ---
+index_img: https://assets.ubuntu.com/v1/741b30ec-desktop-logos.png
 title: ubuntu换源
 date: 2022-09-19 10:08:32
 updated: 2022-09-19 10:08:32

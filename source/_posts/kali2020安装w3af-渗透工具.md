@@ -1,4 +1,5 @@
 ---
+index_img: https://image.3001.net/images/20170904/15045054202931.png
 title: kali2020安装w3af 渗透工具
 date: 2022-09-19 10:11:30
 updated: 2022-09-19 10:11:30

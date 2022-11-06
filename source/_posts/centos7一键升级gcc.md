@@ -1,4 +1,5 @@
 ---
+index_img: https://i.w3tt.com/2021/08/17/q9m8S.png
 title: centos7一键升级gcc
 date: 2022-09-19 10:05:29
 updated: 2022-09-19 10:05:29

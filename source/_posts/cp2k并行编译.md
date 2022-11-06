@@ -1,4 +1,5 @@
 ---
+index_img: https://www.cp2k.org/_media/wiki:logo.png
 title: CP2K并行编译
 date: 2022-09-19 10:12:18
 updated: 2022-09-19 10:12:18

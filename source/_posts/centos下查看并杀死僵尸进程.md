@@ -1,4 +1,5 @@
 ---
+index_img: http://www.51sjk.com/Upload/Articles/1/0/167/167546_20200806190830380.png
 title: CentOS下查看并杀死僵尸进程
 date: 2022-09-19 09:59:03
 updated: 2022-09-19 09:59:03

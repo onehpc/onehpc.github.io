@@ -1,4 +1,5 @@
 ---
+index_img: https://blog.z0ukun.com/wp-content/uploads/2019/12/8720113544669.png
 title: 宝塔面板安装zabbix V3.0
 date: 2022-09-19 10:07:48
 updated: 2022-09-19 10:07:48

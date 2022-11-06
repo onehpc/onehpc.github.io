@@ -1,4 +1,5 @@
 ---
+banner_img: https://www.linuxprobe.com/wp-content/uploads/2020/02/%E5%9B%BE%E7%89%873-3.png
 title: centos7安装xrdp远程桌面服务
 date: 2022-09-19 10:04:48
 updated: 2022-09-19 10:04:48

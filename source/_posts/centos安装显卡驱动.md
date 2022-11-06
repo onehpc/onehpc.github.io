@@ -1,4 +1,5 @@
 ---
+index_img: https://s2.232232.xyz/static/266/2022/11/06-63675d3d7dca5.jpg
 title: centos安装显卡驱动
 date: 2022-09-19 10:13:11
 updated: 2022-09-19 10:13:11

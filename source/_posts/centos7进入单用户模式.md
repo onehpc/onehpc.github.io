@@ -1,4 +1,5 @@
 ---
+index_img: http://www.yvsy.com/wp-content/uploads/2020/07/201801301517315062697303.png
 title: centos7进入单用户模式
 date: 2022-09-19 10:03:13
 updated: 2022-09-19 10:03:13

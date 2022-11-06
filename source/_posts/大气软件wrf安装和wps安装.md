@@ -1,4 +1,5 @@
 ---
+index_img: https://images4.pianshen.com/925/9d/9d1962c51e1ac0b1b565627a85f724f5.gif
 title: 大气软件WRF安装和WPS安装
 date: 2022-09-19 10:06:14
 updated: 2022-09-19 10:06:14

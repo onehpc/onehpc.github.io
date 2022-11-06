@@ -1,4 +1,5 @@
 ---
+index_img: https://s2.232232.xyz/static/266/2022/11/06-63675be96f285.jpg
 title: centos编译openfoam
 date: 2022-09-19 10:14:42
 updated: 2022-09-19 10:14:42

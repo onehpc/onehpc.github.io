@@ -1,4 +1,5 @@
 ---
+index_img: https://www.lammps.org/movies/logo.gif
 title: lammps安装编译
 date: 2022-09-19 10:09:57
 updated: 2022-09-19 10:09:57

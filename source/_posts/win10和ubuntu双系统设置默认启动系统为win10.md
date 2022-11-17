@@ -1,4 +1,5 @@
 ---
+index_img: https://pic.uc23.net/uploads/images/thumbnews/2020/0609/1591696802823739.jpg
 title: win10和ubuntu双系统设置默认启动系统为win10
 date: 2022-11-17 16:38:20
 updated: 2022-11-17 16:38:20

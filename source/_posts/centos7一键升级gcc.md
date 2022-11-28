@@ -29,10 +29,10 @@ cd gcc-9.1.0\
 ./contrib/download_prerequisites\
 [![qfD9L.png](https://i.w3tt.com/2021/08/13/qfD9L.png "qfD9L.png")](https://i.w3tt.com/2021/08/13/qfD9L.png)\
 这里全部ok的话操作下面步骤，然后编译\
-只升级gcc和fortran\
-./configure --prefix=/usr --enable-multilib --enable-languages=c,c++\
-只升级gcc和\
-./configure --prefix=/usr --enable-multilib --enable-languages=c,c++,fortran\
+只升级gcc\
+./configure --prefix=/opt/gcc8.3 --enable-multilib --enable-languages=c,c++
+只升级gcc和fortran 建议这个
+./configure --prefix=/opt/gcc8.3 --enable-multilib --enable-languages=c,c++,fortran
 make 漫长的等待, 建议使用make，不要用make -j，make -j有可能会编译出错\
 make install\
 安装完成\

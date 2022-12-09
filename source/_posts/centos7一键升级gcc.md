@@ -34,7 +34,11 @@ cd gcc-9.1.0\
 只升级gcc和fortran 建议这个
 ./configure --prefix=/opt/gcc8.3 --enable-multilib --enable-languages=c,c++,fortran
 make 漫长的等待, 建议使用make，不要用make -j，make -j有可能会编译出错\
-make install\
+make install
+
+export PATH=/opt/gcc8.3/bin:$PATH
+export LD_LIBRARY_PATH=/opt/gcc8.3/lib64:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/opt/gcc8.3/lib:$LD_LIBRARY_PATH\
 安装完成\
 [![q9m8S.png](https://i.w3tt.com/2021/08/17/q9m8S.png "q9m8S.png")](https://i.w3tt.com/2021/08/17/q9m8S.png)
 
